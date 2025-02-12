@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vaio\\source\\repos\\AirTech_Test\\AirTech_Test.csproj",
+      "projectUniqueName": "C:\\Users\\vaio\\Source\\Repos\\JXXI2020\\AirTech_Test\\AirTech_Test.csproj",
       "projectName": "AirTech_Test",
-      "projectPath": "C:\\Users\\vaio\\source\\repos\\AirTech_Test\\AirTech_Test.csproj",
+      "projectPath": "C:\\Users\\vaio\\Source\\Repos\\JXXI2020\\AirTech_Test\\AirTech_Test.csproj",
       "packagesPath": "C:\\Users\\vaio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vaio\\source\\repos\\AirTech_Test\\obj\\",
+      "outputPath": "C:\\Users\\vaio\\Source\\Repos\\JXXI2020\\AirTech_Test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\vaio\\AppData\\Roaming\\NuGet\\NuGet.Config",

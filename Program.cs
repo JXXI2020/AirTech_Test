@@ -7,7 +7,7 @@ namespace AirTech_Test
     class Program
     {
 
-        public readonly string nameInmutable  = "Jhon"; // readonly can make inmutable to nameInmutable
+        public readonly string nameInmutable  = "Jhon"; // readonly can make inmutable to variable nameInmutable
 
         public IList<String> citiesList = new List<string>()
             { "nasville",
