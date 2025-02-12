@@ -83,9 +83,12 @@ namespace AirTech_Test
                 }
             }
 
+            int onlyFive = 0;
             foreach (var word in wordCounts.OrderByDescending(w => w.Value))
             {
+                if (onlyFive>=5) break;
                 Console.WriteLine($"{word.Key}: {word.Value}");
+                onlyFive++;
             }
         }
     }
